@@ -1,0 +1,6 @@
+autopep8
+django
+django-cors-headers
+django-dotenv
+djangorestframework
+psycopg2-binary
